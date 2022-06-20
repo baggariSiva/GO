@@ -25,7 +25,7 @@ cd go
 ### Step 3: Run your app in dev mode
 
 ```
-go run main.go
+go run .
 ```
 
 ### Step 4: Make some changes and push
