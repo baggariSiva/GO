@@ -1,6 +1,6 @@
 # GO on Elestio
 
-This is a minimal example of a GO site using GO language.
+This is a minimal example of a GO site
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
@@ -14,7 +14,7 @@ Click on the button below to deploy this repository with CI/CD on Elestio:
 ### Step 1: Clone this repository
 
 ```
-git clone https://github.com/elestio-examples/GO.git
+git clone YOUR_REPOSITORY_URL
 ```
 ### Step 2: Go to project folder
 
@@ -31,4 +31,4 @@ go run main.go
 ### Step 4: Make some changes and push
 Try to make some change in your GO project then push to the git repository
 
-After few secondes to few minutes your change will be deployed on your CI/CD target 🚀
+After few seconds to few minutes your change will be deployed on your CI/CD target 🚀
